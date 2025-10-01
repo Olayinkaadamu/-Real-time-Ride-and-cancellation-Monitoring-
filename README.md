@@ -75,12 +75,12 @@ Vehicle Type Performance
 - Reassess Go SUV’s pricing or route strategy.  
 - Monitor cancellation ratings for high-performing vehicles.
 
-- Booking & Cancellation
+ Booking & Cancellation
 - Investigate high cancellation rate.  
 - Log cancellation reasons into scenario cards.  
 - Optimize dispatch and reallocate fleet during peak hours.
 
-- Ratings & Revenue
+Ratings & Revenue
 - Leverage high ratings to identify loyalty segments.  
 - Explore upsell opportunities for low-revenue, high-rating rides.  
 - Track supplier quality through rating-linked scenario cards.
