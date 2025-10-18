@@ -44,11 +44,23 @@ The Power BI Dashboard includes the following Pages:
 
 
   ### 📊 Key Insights
-- High Booking Value, and consistent monthly demand  
 - Booking Done rate exceeds 65%, strong supplier reliability  
 - Driver side cancellations dominate, a governance risk  
 - Vehicle types show performance variation, opportunity for fleet optimization  
 - Ratings are high but revenue varies, signals quality vs cost trade offs
+
+  ### KPI
+* Booking Value: £52M total 
+* Total bookings 150K
+* Successful Bookings 113k
+* Total cancellations 38k 
+* Booking Completion Rate: 67.1%  
+* Cancellations: 25%  
+* Daily Ride Volume: 80K–85K  
+* Top Payment Method: UPI  
+* Highest Booking Value Customer: CID26744107   
+*  Vehicle Type to Reassess: Uber XL 
+* Ratings: High across most services, averaging 2.60–2.76
 
 ### Recommendations
 UPI is far the most popular payment method, followed by Cash, Uber wallets and cards lagging.
@@ -61,18 +73,16 @@ Customer ID CID26744107 has the highest booking value.
 Booking Value: £52M  Strong overall performance  
 - Booking Status:
   - 67.1% completed  
-  - 17% cancelled by drivers  
-  - 11.14% cancelled by customers  
+  - 25% Cancellation rate  
 - Monthly Bookings: Consistent across all months stable demand.
-- Maintain current fleet and supplier mix due to stable monthly bookings.  
-- Investigate driver side cancellations (17%) and log causes into scenario cards.  
+- Maintain current fleet and supplier mix due to stable monthly bookings.    
 - Monitor booking completion rate (67.1%) to ensure supplier reliability.  
 - Use governance notes to track trends and guide supplier accountability.  
 - Document refund triggers and dispatch delays for audit clarity.
 
 Vehicle Type Performance
-- Prioritize Go Sedan and Go Moto for expansion.  
-- Reassess Go SUV’s pricing or route strategy.  
+- Prioritize Bike,Go Sedan and Go Mini for expansion.  
+- Reassess Uber XL pricing or route strategy.  
 - Monitor cancellation ratings for high-performing vehicles.
 
  Booking & Cancellation
@@ -82,8 +92,8 @@ Vehicle Type Performance
 
 Ratings & Revenue
 - Leverage high ratings to identify loyalty segments.  
-- Explore upsell opportunities for low-revenue, high-rating rides.  
-- Track supplier quality through rating-linked scenario cards.
+- Explore upsell opportunities for low revenue, high rating rides.  
+- Track supplier quality through rating linked scenario cards.
 
 ### Excel file
 
